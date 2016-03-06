@@ -1,0 +1,21 @@
+{
+  "name": "keyboard-keys",
+  "version": "1.0.0",
+  "description": "A css suite of computer keyboard keys",
+  "main": "keys.css",
+  "scripts": {},
+  "author": {
+    "name": "Alan Clarke",
+    "email": "hi@alz.so",
+    "url": "alz.so"
+  },
+  "license": "UNLICENSED",
+  "dependencies": {},
+  "devDependencies": {},
+  "directories": {},
+  "keywords": [
+    "keyboard",
+    "keys",
+    "css"
+  ]
+}
