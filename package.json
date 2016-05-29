@@ -4,11 +4,7 @@
   "description": "A css suite of computer keyboard keys",
   "main": "keys.css",
   "scripts": {},
-  "author": {
-    "name": "Alan Clarke",
-    "email": "hi@alz.so",
-    "url": "alz.so"
-  },
+  "author": "Alan Clarke <hi@alz.so> (alz.so)",
   "license": "UNLICENSED",
   "dependencies": {},
   "devDependencies": {},
@@ -17,5 +13,13 @@
     "keyboard",
     "keys",
     "css"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanclarke/keyboard-keys.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alanclarke/keyboard-keys/issues"
+  },
+  "homepage": "https://github.com/alanclarke/keyboard-keys#readme"
 }
