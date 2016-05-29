@@ -10,9 +10,9 @@
   height: 41px;
   background: #eff0f2;
   border-radius: 4px;
-  border-top: 1px solid #f5f5f5;
+  border-top: 1px solid rgba(255, 255, 255, 0.8);
   box-shadow: inset 0 0 25px #e8e8e8, 0 1px 0 #c3c3c3, 0 2px 0 #c9c9c9, 0 2px 3px #333;
-  text-shadow: 0px 1px 0px #f5f5f5;
+  text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.8);
   margin: 0px;
 }
 .keyboard-key.dark {
@@ -27,7 +27,7 @@
   background: #ebeced;
   margin: 0px 0px -2px 0px;
   box-shadow: inset 0 0 25px #ddd, 0 0 3px #333;
-  border-top: 1px solid #eee;
+  border-top: 1px solid rgba(255, 255, 255, 0.8);
 }
 .keyboard-key.dark:active,
 .keyboard-keydown.dark {
@@ -620,13 +620,6 @@
   left: 5px;
   font-size: 10px;
   content: "delete";
-}
-.keyboard-key.fn::before {
-  position: absolute;
-  bottom: 5px;
-  left: 5px;
-  font-size: 10px;
-  content: "fn";
 }
 .keyboard-key.option::before {
   position: absolute;
