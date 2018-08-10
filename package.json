@@ -4,7 +4,7 @@
   "description": "A css suite of computer keyboard keys",
   "main": "keys.css",
   "scripts": {},
-  "author": "Alan Clarke <hi@alz.so> (alz.so)",
+  "author": "Alan Clarke <code@alz.io> (alz.io)",
   "license": "UNLICENSED",
   "dependencies": {},
   "devDependencies": {},
